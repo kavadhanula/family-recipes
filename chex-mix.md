@@ -19,3 +19,7 @@ Super yummy home-made Chex Mix.
 
 ## Directions
 
+1. Melt butter and salts.
+2. Add Worcestershire sauce.
+3. Combine butter mixture with dry ingredients.  Mix thoroughly!!
+4. Bake at 225 degrees for 1 hour covered and 1 hour uncovered, stirring every 20-30 minutes.  
