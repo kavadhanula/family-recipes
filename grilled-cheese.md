@@ -1,4 +1,4 @@
-# Grilled Cheese
+# Easy Grilled Cheese Sandwich
 
 ## ingredients
 * 1 cheese slice
