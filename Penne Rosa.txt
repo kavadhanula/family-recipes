@@ -1,6 +1,7 @@
-#Title
-Pene Rosa
+# Title
+
 ## Ingredients
+
 1 bowl of pasta
 Capsicum
 Celantro
@@ -8,5 +9,7 @@ Mushrooms
 
 1 tbsp wine
 
+
 ## Directions
 
+at the end
