@@ -1,6 +1,6 @@
 # Tilapia
 
-* generate a merge conflict
+Fried Tilapia
 
 ## Ingredients
 
