@@ -1,5 +1,10 @@
 #Pizza
 
 ##Ingredients
+- cash
+- phone
 
 ##Directions
+- Call local pizza delivery
+- request a pizza
+- Pay when it arrives
