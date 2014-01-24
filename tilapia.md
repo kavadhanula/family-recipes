@@ -1,8 +1,5 @@
 # Fried Tilapia
 
-
-Fried Tilapia local merge
-
 ## Ingredients
 
 * Tilapia
