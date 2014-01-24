@@ -1,4 +1,4 @@
-#Fruit Salad
+# Healthy Fruit Salad
 A quick and easy dessert!
 
 ##Directions
