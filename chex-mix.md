@@ -1,4 +1,4 @@
-# Chex Mix
+# Chex Mix - Susu's version of Stacy's recipe
 
 Super yummy home-made Chex Mix.
 
