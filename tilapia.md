@@ -1,6 +1,6 @@
 # Fried Tilapia
 
-Fried Tilapia
+Fried Tilapia remote
 
 ## Ingredients
 
