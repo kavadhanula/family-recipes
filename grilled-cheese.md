@@ -5,4 +5,4 @@ ingredients
 2 slices bread
 
 steps
-take a guess
+take a guess, it's super easy!
