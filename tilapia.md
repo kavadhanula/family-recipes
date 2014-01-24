@@ -1,4 +1,4 @@
-# Tilapia
+# Fried Tilapia
 
 Fried Tilapia
 
